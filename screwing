@@ -1,1 +1,6 @@
-print("Hello)
+print("Hello")
+sleep = [1,2,3,4,5]
+
+for s in sleep:
+  print(s)
+
